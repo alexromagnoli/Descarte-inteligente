@@ -2,6 +2,8 @@
 
 Sistema inteligente para identificação, pesagem e monitoramento do desperdício de alimentos em restaurantes.
 
+**Domínio:** foodtrackers.com.br *(em desenvolvimento)*
+
 O FoodTracks é um projeto acadêmico desenvolvido no curso de Análise e Desenvolvimento de Sistemas da FATEC Araraquara. A proposta combina inteligência artificial, visão computacional, pesagem eletrônica e uma aplicação web para transformar o descarte de alimentos em dados úteis para a gestão.
 
 ## Sobre o projeto
