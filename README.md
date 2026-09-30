@@ -99,7 +99,7 @@ Atualmente, o projeto contempla:
 
 * Protótipo da aplicação web
 * Diagrama de Casos de Uso
-* Modelagem do Banco de Dados
+* [Modelagem do Banco de Dados](https://github.com/alexromagnoli/Descarte-inteligente/blob/main/docs/database/foodtracks-modelo-banco-dados.xlsx)
 * Documentação do sistema
 
 Novos diagramas e documentos serão adicionados durante o desenvolvimento.
