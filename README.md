@@ -40,7 +40,7 @@ O protótipo da aplicação web foi desenvolvido no Figma e apresenta a proposta
 
 [Fluxograma](https://github.com/alexromagnoli/Descarte-inteligente/blob/main/docs/diagrams/fluxograma.md)
 
-[Componemtes](https://github.com/alexromagnoli/Descarte-inteligente/blob/main/docs/diagrams/componentes.md)
+[Componentes](https://github.com/alexromagnoli/Descarte-inteligente/blob/main/docs/diagrams/componentes.md)
 
 
 ## Infraestrutura Técnica
