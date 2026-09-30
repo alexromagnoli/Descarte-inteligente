@@ -97,7 +97,7 @@ Projeto desenvolvido por estudantes de Análise e Desenvolvimento de Sistemas da
 | Alex Gabriel Romagnoli | alexromagnoli |
 | André Capella| ancapella |
 | Deivison Miranda Gomes | odeivison |
-| João | |
+| João | jgscamilheConde |
 | Nafitaly Vitória | hellooviic |
 | Thiago Gotardo | thiagogosantos57-ops |
 
