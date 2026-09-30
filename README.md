@@ -21,6 +21,12 @@ O funcionamento do sistema é baseado em quatro etapas principais:
 
 Quando um alimento não puder ser identificado, o evento poderá ser registrado para análise posterior.
 
+## Protótipo
+
+O protótipo da aplicação web foi desenvolvido no Figma e apresenta a proposta inicial da interface e do dashboard do FoodTracks.
+
+[Acessar protótipo no Figma](https://www.figma.com/make/BISTgMS8WHvVgGteUsSIJb/Lixeira-Inteligente-Dashboard?t=WdE8vtCaLESAH3Qt-1)
+
 ## Infraestrutura Técnica
 
 ### Aplicação Web
@@ -75,6 +81,7 @@ A documentação técnica do projeto está disponível na pasta `docs`.
 
 Atualmente, o projeto contempla:
 
+* Protótipo da aplicação web
 * Diagrama de Casos de Uso
 * Modelagem do Banco de Dados
 * Documentação do sistema
@@ -88,11 +95,11 @@ Projeto desenvolvido por estudantes de Análise e Desenvolvimento de Sistemas da
 | Integrante | GitHub |
 | --- | --- |
 | Alex Gabriel Romagnoli | alexromagnoli |
-| André | ancapella |
-| Deivison | |
+| André Capella| ancapella |
+| Deivison Miranda Gomes | odeivison |
 | João | |
 | Nafitaly Vitória | hellooviic |
-| Thiago Gotardo | |
+| Thiago Gotardo | thiagogosantos57-ops |
 
 ## Contexto Acadêmico
 
