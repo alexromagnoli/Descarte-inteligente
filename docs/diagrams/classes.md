@@ -1,9 +1,3 @@
-
----
-
-### 3. `03-diagrama-classes.md`
-
-```md
 # Diagrama de Classes
 
 ## Descrição
