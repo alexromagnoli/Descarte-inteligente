@@ -25,7 +25,7 @@ Quando um alimento não puder ser identificado, o evento poderá ser registrado 
 
 O protótipo da aplicação web foi desenvolvido no Figma e apresenta a proposta inicial da interface e do dashboard do FoodTracks.
 
-[Acessar protótipo no Figma](https://www.figma.com/make/BISTgMS8WHvVgGteUsSIJb/Lixeira-Inteligente-Dashboard?t=WdE8vtCaLESAH3Qt-1)
+[Acessar protótipo no Figma](https://ginger-smart-34289517.figma.site/)
 
 ## Infraestrutura Técnica
 
