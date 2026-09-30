@@ -37,10 +37,11 @@ O protótipo da aplicação web foi desenvolvido no Figma e apresenta a proposta
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 
 ### Inteligência Artificial
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=plastic)
 
 ### Banco de Dados
