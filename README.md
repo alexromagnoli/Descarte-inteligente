@@ -32,9 +32,14 @@ O protótipo da aplicação web foi desenvolvido no Figma e apresenta a proposta
 ## Diagramas  UML
 
 [Diagrama de caso de uso](https://github.com/alexromagnoli/Descarte-inteligente/blob/main/docs/diagrams/caso_de_uso.md)
+
+
 [Diagrama de login](https://github.com/alexromagnoli/Descarte-inteligente/blob/main/docs/diagrams/login.md)
+
 [Diagrama de classes](https://github.com/alexromagnoli/Descarte-inteligente/blob/main/docs/diagrams/classes.md)
+
 [Fluxograma](https://github.com/alexromagnoli/Descarte-inteligente/blob/main/docs/diagrams/fluxograma.md)
+
 [Componemtes](https://github.com/alexromagnoli/Descarte-inteligente/blob/main/docs/diagrams/componentes.md)
 
 
