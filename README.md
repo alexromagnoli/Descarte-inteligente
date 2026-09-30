@@ -94,10 +94,10 @@ Projeto desenvolvido por estudantes de Análise e Desenvolvimento de Sistemas da
 
 | Integrante | GitHub |
 | --- | --- |
-| Alex Gabriel Romagnoli | alexromagnoli |
+| Alex Romagnoli | alexromagnoli |
 | André Capella| ancapella |
 | Deivison Miranda Gomes | odeivison |
-| João | jgscamilheConde |
+| João Scamilhe Conde| jgscamilheConde |
 | Nafitaly Vitória | hellooviic |
 | Thiago Gotardo | thiagogosantos57-ops |
 
