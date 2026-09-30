@@ -29,6 +29,11 @@ O protótipo da aplicação web foi desenvolvido no Figma e apresenta a proposta
 
 [Acessar protótipo no Figma](https://ginger-smart-34289517.figma.site/)
 
+## Diagramas  UML
+
+[Diagrama de caso de uso](https://github.com/alexromagnoli/Descarte-inteligente/blob/main/docs/diagrams/caso_de_uso.md)
+
+
 ## Infraestrutura Técnica
 
 ### Aplicação Web
