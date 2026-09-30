@@ -1,9 +1,3 @@
-
----
-
-### 2. `02-diagrama-sequencia-login.md`
-
-```md
 # Diagrama de Sequência — Login
 
 ## Descrição
